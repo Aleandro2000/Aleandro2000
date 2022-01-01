@@ -1,5 +1,5 @@
 ### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋
-## I'm ACS Student and Web Application Developer!!
+## I'm ACS-UPB Student and Web Application Developer!!
 
 Personal and Professional development is one of my main interests and that is why I have been looking to develop my skills and knowledge through many paths. Being a System Engineering Student at the University Politehnica of Bucharest and working as a web application developer at GDM Webmedia, I gathered experience with technologies such as ReactJS, NextJS, NodeJS, NestJS, Databases, Microservices (such as Docker), bash scripting, Strapi and Cypress.
 
