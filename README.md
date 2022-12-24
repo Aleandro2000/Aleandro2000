@@ -1,16 +1,18 @@
 ### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋
-## I'm ACS-UPB Student and Web Application Developer!!
+## I'm Freelancer Full-stack Developer!!
 
-Personal and Professional development is one of my main interests and that is why I have been looking to develop my skills and knowledge through many paths. Being a System Engineering Student at the University Politehnica of Bucharest and working as a front-end developer at Lenovo Global Technology, I gathered experience with technologies such as ReactJS, NextJS, NodeJS, NestJS, Databases, Microservices (such as Docker), bash scripting, Strapi, Cypress and AngularJS.
+As a software developer, I aim to develop web applications built with various technologies stack. My firsts specializations are within MERN and MEAN stack. I use my skills, my passion and also my innovative ideas to help businesses around the world to deliver the best software products.
 
-Besides being passionate about programming and pursuing to evolve in this matter, I have also been busy with involving in LSAC IT projects. I am hardworking, passionate, and committed to my work, while also being up for new challenges and opportunities.
+✅ Only Remote Collaborations
+✅ $40/hr average rate
+✅ Team Available
 
 
 <br/>
 
 ### Profile stats:
 ---
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aleandro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleandro2000&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,5 +21,5 @@ Besides being passionate about programming and pursuing to evolve in this matter
 [<img align="left" alt="adrianbrabete.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Adrian Brabete | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://andreicarmici.netlify.app/
-[linkedin]: https://ro.linkedin.com/in/alexandru-andrei-carmici-8978b21b3
+[website]: https://www.dacosoftsolution.com/
+[linkedin]: https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3
