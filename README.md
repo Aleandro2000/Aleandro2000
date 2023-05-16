@@ -4,7 +4,7 @@
 As a software developer, I aim to develop web applications built with various technologies stack. My firsts specializations are within MERN and MEAN stack. I use my skills, my passion and also my innovative ideas to help businesses around the world to deliver the best software products.
 
 ✅ Only Remote Collaborations
-✅ $40/hr average rate
+✅ Professional Solutions
 ✅ Team Available
 
 
