@@ -1,11 +1,7 @@
 ### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋
-## I'm Freelancer Full-stack Developer!!
+## I'm Full-stack Developer!!
 
 As a software developer, I aim to develop web applications built with various technologies stack. My firsts specializations are within MERN and MEAN stack. I use my skills, my passion and also my innovative ideas to help businesses around the world to deliver the best software products.
-
-✅ Only Remote Collaborations
-✅ Professional Solutions
-✅ Team Available
 
 
 <br/>
