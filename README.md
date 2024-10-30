@@ -3,7 +3,9 @@
 
 As a Full-Stack Developer specializing in JavaScript/TypeScript, I leverage my skills, passion, and extensive experience to deliver exceptional software solutions that drive impact and innovation.
 <br/>
+<br/>
 🤝 Do you need a web or mobile application solution for your business? 𝐃𝐫𝐨𝐩 𝐦𝐞 𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞!
+<br/>
 <br/>
 Phone: +40724075001
 <br/>
