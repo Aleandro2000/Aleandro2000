@@ -1,7 +1,15 @@
 ### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋
 ## I'm Full-stack Developer!!
 
-As a software developer, I aim to develop web applications built with various technologies stack. My firsts specializations are within MERN and MEAN stack. I use my skills, my passion and also my innovative ideas to help businesses around the world to deliver the best software products.
+As a Full-Stack Developer specializing in JavaScript/TypeScript, I leverage my skills, passion, and extensive experience to deliver exceptional software solutions that drive impact and innovation.
+
+🤝 Do you need a web or mobile application solution for your business? 𝐃𝐫𝐨𝐩 𝐦𝐞 𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞!
+
+Phone: +40724075001
+Email: carmicialexandruandrei@gmail.com
+GitHub: [https://github.com/aleandro2000](https://github.com/aleandro2000)
+Website: [https://alexandrucarmici.work/](https://alexandrucarmici.work/)
+Npm: [https://www.npmjs.com/~aleandro2000/](https://www.npmjs.com/~aleandro2000/)
 
 
 <br/>
@@ -17,5 +25,5 @@ As a software developer, I aim to develop web applications built with various te
 [<img align="left" alt="adrianbrabete.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Adrian Brabete | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://www.dacosoftsolution.com/
-[linkedin]: https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3
+[website]: [https://alexandrucarmici.work/](https://alexandrucarmici.work/)
+[linkedin]: [https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3](https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3)
