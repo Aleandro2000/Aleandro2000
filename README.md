@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋  
 ## Full-Stack Developer | Founder of Dacosoft Solution  
 
-From the very beginning, I've been driven by a relentless passion for technology. As a full-stack developer at heart, I've always sought ways to innovate and push the limits of what’s possible. This passion led me to create **Dacosoft Solution**, born from my deep belief that technology—especially **AI**—has the power to transform how businesses connect with their customers.  
+From the very beginning, I've been driven by a relentless passion for technology. As a full-stack developer at heart, I've always sought ways to innovate and push the limits of what’s possible. This passion led me to create **Dacosoft Solution**, born from my deep belief that technology, especially **AI**, has the power to transform how businesses connect with their customers.  
 
 It wasn't always smooth sailing: countless late nights spent coding, testing, and refining shaped my journey. There were moments of doubt, but my commitment to **innovation** never wavered. I knew businesses needed more than just tools; they needed **smarter, faster solutions** that could adapt in real-time. That vision became the foundation of Dacosoft Solution: a platform blending cutting-edge AI with the creativity and expertise I've honed as a developer.  
 
