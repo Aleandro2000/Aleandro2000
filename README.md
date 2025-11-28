@@ -11,7 +11,6 @@ Today, I'm proud of what I’ve built, but even more excited for what’s ahead.
 **Drop me a message—I’d love to help bring your vision to life!**  
 
 ### 📞 Let’s Connect  
-- **Phone:** +40 724 075 001  
 - **Email:** carmicialexandruandrei@gmail.com  
 - **GitHub:** [github.com/aleandro2000](https://github.com/aleandro2000)  
 - **Website:** [alexandrucarmici.work](https://alexandrucarmici.work/)  
