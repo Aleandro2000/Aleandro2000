@@ -1,22 +1,20 @@
-### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋  
-## Full-Stack Developer | Founder of Dacosoft Solution  
+### Hi there, I'm Alexandru Carmici - aka [Aleandro2000][website] 👋
 
-From the very beginning, I've been driven by a relentless passion for technology. As a full-stack developer at heart, I've always sought ways to innovate and push the limits of what’s possible. This passion led me to create **Dacosoft Solution**, born from my deep belief that technology, especially **AI**, has the power to transform how businesses connect with their customers.  
+## Full-Stack Software Engineer
 
-It wasn't always smooth sailing: countless late nights spent coding, testing, and refining shaped my journey. There were moments of doubt, but my commitment to **innovation** never wavered. I knew businesses needed more than just tools; they needed **smarter, faster solutions** that could adapt in real-time. That vision became the foundation of Dacosoft Solution: a platform blending cutting-edge AI with the creativity and expertise I've honed as a developer.  
+Full-Stack Software Engineer with experience building and delivering scalable web and mobile applications in B2B environments. Skilled in designing and implementing end-to-end systems across both frontend and backend layers using modern technologies and frameworks, including React, TypeScript, and Node.js.
 
-Today, I'm proud of what I’ve built, but even more excited for what’s ahead. My mission is simple: to keep innovating and pushing the boundaries of what technology can do for businesses, while staying true to my roots as a **passionate full-stack developer**.  
+Experienced in working with cloud infrastructure, API-driven architectures, and distributed systems. Comfortable across the full product lifecycle, from requirements analysis and system design to deployment and production support, with a strong focus on maintainability, automated testing, and building reliable, production-ready software systems.
 
-🤝 Do you need a web, mobile, or AI-driven solution for your business?  
-**Drop me a message—I’d love to help bring your vision to life!**  
+### 📞 Let's Connect
 
-### 📞 Let’s Connect  
-- **Email:** carmicialexandruandrei@gmail.com  
-- **GitHub:** [github.com/aleandro2000](https://github.com/aleandro2000)  
-- **Website:** [alexandrucarmici.work](https://alexandrucarmici.work/)  
-- **Npm:** [npmjs.com/~aleandro2000](https://www.npmjs.com/~aleandro2000/)  
-- **LinkedIn:** [linkedin.com/in/alexandru-andrei-carmici-8978b21b3](https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3)  
+* **Email:** [carmicialexandruandrei@gmail.com](mailto:carmicialexandruandrei@gmail.com)
+* **GitHub:** [github.com/aleandro2000](https://github.com/aleandro2000)
+* **Website:** [alexandrucarmici.work](https://alexandrucarmici.work/)
+* **Npm:** [npmjs.com/~aleandro2000](https://www.npmjs.com/~aleandro2000/)
+* **LinkedIn:** [linkedin.com/in/alexandru-andrei-carmici-8978b21b3](https://linkedin.com/in/alexandru-andrei-carmici-8978b21b3)
 
-### 📊 Profile Stats  
-[![Aleandro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleandro2000&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+### 📊 Profile Stats
+
+[![Aleandro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000\&hide=contribs\&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleandro2000\&langs_count=8\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
