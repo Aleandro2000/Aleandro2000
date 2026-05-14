@@ -8,7 +8,7 @@ Experienced in working with cloud infrastructure, API-driven architectures, and 
 
 ### 📞 Let's Connect
 
-* **Email:** [carmicialexandruandrei@gmail.com](mailto:carmicialexandruandrei@gmail.com)
+* **Email:** [alexandruandreicarmici@gmail.com](mailto:alexandruandreicarmici@gmail.com)
 * **GitHub:** [github.com/aleandro2000](https://github.com/aleandro2000)
 * **Website:** [alexandrucarmici.work](https://alexandrucarmici.work/)
 * **Npm:** [npmjs.com/~aleandro2000](https://www.npmjs.com/~aleandro2000/)
