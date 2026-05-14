@@ -16,5 +16,5 @@ Experienced in working with cloud infrastructure, API-driven architectures, and 
 
 ### 📊 Profile Stats
 
-[![Aleandro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000\&hide=contribs\&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleandro2000\&langs_count=8\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Aleandro2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleandro2000&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleandro2000&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
